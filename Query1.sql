@@ -1,6 +1,6 @@
 #top_scorers
 SELECT 
-	`top_scorers`.`position`,
+    `top_scorers`.`position`,
     `top_scorers`.`player`,
     `top_scorers`.`club`,
     `top_scorers`.`total_goals`,
